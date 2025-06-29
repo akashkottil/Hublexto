@@ -1,5 +1,5 @@
 date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-<<<<<<< HEAD
+  
 00:00:32	71213/71213	---MCZ	200	added ('OK')	text/html	etag:W/%2266bc9f02-1162d%22	https://uithemez.com/i/hubfolio_HTML/startup_agency/index.html	C:/My%20Web%20Sites/hublexto/uithemez.com/i/hubfolio_HTML/startup_agency/index.html	(from )
 00:00:34	56986/56986	---MCZ	200	added ('OK')	text/html	etag:W/%2266bc9d96-de9a%22	https://uithemez.com/i/hubfolio_HTML/inner_pages/about.html	C:/My%20Web%20Sites/hublexto/uithemez.com/i/hubfolio_HTML/inner_pages/about.html	(from )
 00:00:34	21706/21706	---MCZ	200	added ('OK')	text/html	etag:W/%2266bc9d99-54ca%22	https://uithemez.com/i/hubfolio_HTML/inner_pages/portfolio-cards.html	C:/My%20Web%20Sites/hublexto/uithemez.com/i/hubfolio_HTML/inner_pages/portfolio-cards.html	(from )
@@ -152,7 +152,7 @@ date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,C
 00:01:52	1399/1399	---MCZ	200	added ('OK')	image/svg+xml	etag:W/%2266bc9daf-577%22	https://uithemez.com/i/hubfolio_HTML/inner_pages/assets/imgs/about/s-icon2.svg	C:/My%20Web%20Sites/hublexto/uithemez.com/i/hubfolio_HTML/inner_pages/assets/imgs/about/s-icon2.svg	(from https://uithemez.com/i/hubfolio_HTML/inner_pages/about.html)
 00:01:52	1217/1217	---MCZ	200	added ('OK')	image/svg+xml	etag:W/%2266bc9dc1-4c1%22	https://uithemez.com/i/hubfolio_HTML/inner_pages/assets/imgs/about/testim/vector_quote.svg	C:/My%20Web%20Sites/hublexto/uithemez.com/i/hubfolio_HTML/inner_pages/assets/imgs/about/testim/vector_quote.svg	(from https://uithemez.com/i/hubfolio_HTML/inner_pages/about.html)
 00:01:52	274/274	---MCZ	404	error ('Not%20Found')	text/html	date:Sat,%2021%20Jun%202025%2018:31:52%20GMT	https://uithemez.com/i/hubfolio_HTML/common/css/images/close.png	C:/My%20Web%20Sites/hublexto/uithemez.com/i/hubfolio_HTML/common/css/images/close.png	(from https://uithemez.com/i/hubfolio_HTML/common/css/plugins/YouTubePopUp.css)
-=======
+ 
 19:00:48	71213/71213	---MCZ	200	added ('OK')	text/html	etag:W/%2266bc9f02-1162d%22	https://uithemez.com/i/hubfolio_HTML/startup_agency/index.html	C:/My%20Web%20Sites/hublexto-v3/uithemez.com/i/hubfolio_HTML/startup_agency/index.html	(from )
 19:00:48	56986/56986	---MCZ	200	added ('OK')	text/html	etag:W/%2266bc9d96-de9a%22	https://uithemez.com/i/hubfolio_HTML/inner_pages/about.html	C:/My%20Web%20Sites/hublexto-v3/uithemez.com/i/hubfolio_HTML/inner_pages/about.html	(from )
 19:00:49	21706/21706	---MCZ	200	added ('OK')	text/html	etag:W/%2266bc9d99-54ca%22	https://uithemez.com/i/hubfolio_HTML/inner_pages/portfolio-cards.html	C:/My%20Web%20Sites/hublexto-v3/uithemez.com/i/hubfolio_HTML/inner_pages/portfolio-cards.html	(from )
@@ -305,4 +305,4 @@ date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,C
 19:01:37	2783/2783	---MCZ	200	added ('OK')	image/svg+xml	etag:W/%2266bc9daf-adf%22	https://uithemez.com/i/hubfolio_HTML/inner_pages/assets/imgs/about/s-icon1.svg	C:/My%20Web%20Sites/hublexto-v3/uithemez.com/i/hubfolio_HTML/inner_pages/assets/imgs/about/s-icon1.svg	(from https://uithemez.com/i/hubfolio_HTML/inner_pages/about.html)
 19:01:37	274/274	---MCZ	404	error ('Not%20Found')	text/html	date:Sun,%2029%20Jun%202025%2013:31:39%20GMT	https://uithemez.com/i/hubfolio_HTML/common/css/images/close.png	C:/My%20Web%20Sites/hublexto-v3/uithemez.com/i/hubfolio_HTML/common/css/images/close.png	(from https://uithemez.com/i/hubfolio_HTML/common/css/plugins/YouTubePopUp.css)
 19:01:37	81381/81381	---MCZ	200	added ('OK')	text/css	etag:W/%226722a518-13de5%22	https://uithemez.com/i/hubfolio_HTML/common/css/plugins/animate.min.css	C:/My%20Web%20Sites/hublexto-v3/uithemez.com/i/hubfolio_HTML/common/css/plugins/animate.min.css	(from https://uithemez.com/i/hubfolio_HTML/common/css/plugins.css)
->>>>>>> master
+ 
