@@ -64,7 +64,11 @@
     height: 100%;
     overflow: hidden;
     pointer-events: none;
+<<<<<<< HEAD
     background-image: url(/uithemez.com/i/hubfolio_HTML/startup_agency/assets/imgs/header/g-back.png);
+=======
+    background-image: url(../imgs/header/g-back.png);
+>>>>>>> master
     background-size: cover;
     z-index: -1; }
     .header-sa .background:before {
@@ -87,7 +91,11 @@
       left: 0;
       width: 100%;
       height: 100%;
+<<<<<<< HEAD
       background-image: url(/uithemez.com/i/hubfolio_HTML/startup_agency/assets/imgs/header/Grid.png);
+=======
+      background-image: url(../imgs/header/Grid.png);
+>>>>>>> master
       background-size: contain;
       background-repeat: repeat;
       z-index: -1;
@@ -132,8 +140,13 @@
   .services-sa .item .cont {
     padding: 15px; }
     .services-sa .item .cont .icon {
+<<<<<<< HEAD
       width: 80px;
       height: 80px;
+=======
+      width: 52px;
+      height: 52px;
+>>>>>>> master
       line-height: 50px;
       text-align: center;
       border: 1px solid rgba(255, 255, 255, 0.1);
@@ -239,7 +252,11 @@
     left: 0;
     width: 100%;
     height: 100%;
+<<<<<<< HEAD
     background-image: url(/uithemez.com/i/hubfolio_HTML/startup_agency/assets/imgs/testim/mesh-gradient.png);
+=======
+    background-image: url(../imgs/testim/mesh-gradient.png);
+>>>>>>> master
     background-position: bottom;
     background-size: contain;
     background-repeat: no-repeat;
@@ -349,8 +366,11 @@
 
 /* --------------- Blogs --------------- */
 .blog-sa .item .img {
+<<<<<<< HEAD
   position: relative;
   padding-bottom: 75%;
+=======
+>>>>>>> master
   height: 470px;
   border-radius: 15px; }
 
@@ -364,7 +384,11 @@
 /* --------------- Contact --------------- */
 .contact-sa .box {
   padding: 120px 60px;
+<<<<<<< HEAD
   background-image: url(/uithemez.com/i/hubfolio_HTML/startup_agency/assets/imgs/gr-back.png);
+=======
+  background-image: url(../imgs/gr-back.png);
+>>>>>>> master
   background-size: cover;
   background-position: center center;
   border-radius: 30px;
@@ -571,6 +595,7 @@ p {
     width: 200px; }
   .contact-sa .box {
     padding: 120px 40px; } }
+<<<<<<< HEAD
 
 .hero-img.lg-img {
     padding: 0 40px;
@@ -632,3 +657,5 @@ p {
     font-size: 90px;
     line-height: 1.1;
 }
+=======
+>>>>>>> master
